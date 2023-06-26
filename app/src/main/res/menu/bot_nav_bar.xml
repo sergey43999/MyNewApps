@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Главная"
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"/>
+    <item android:title="О нас"
+        android:id="@+id/about"
+        android:icon="@drawable/baseline_person_24"/>
+    <item android:title="Контакты"
+        android:id="@+id/contacts"
+        android:icon="@drawable/baseline_contact_support_24"/>
+</menu>
